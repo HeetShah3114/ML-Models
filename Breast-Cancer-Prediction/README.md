@@ -6,6 +6,7 @@ This project aims to develop a machine learning model capable of predicting medi
 The features in the dataset are named as 1,2,3,5 ... so we will have to rename them in the preprocessing.
 
 ID: A unique identifier for each patient (this feature is not used in analysis).
+
 Clump Thickness: Measures the thickness of the clumps of cells. A higher value indicates a more substantial clump.
 
 Uniformity of Cell Size: Reflects how consistent the size of the cells is. Higher values indicate a greater variation in cell sizes.
